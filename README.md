@@ -1,0 +1,1 @@
+This project will take the Open Street Map (OSM) database and seperate the filter all of the nodes to just highways and then group them into primary, secondary and tertiary. These layers will be used in an effort to create a contraction hierarchy in a routing algorithm.
